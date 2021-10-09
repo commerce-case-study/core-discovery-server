@@ -1,4 +1,4 @@
-package com.metranet.finbox.core;
+package com.commerce.core.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
